@@ -33,3 +33,5 @@ enabled = true
 [plugin.params]
 marker = "COM"
 
+[drivers.obsidian]
+integration = true
