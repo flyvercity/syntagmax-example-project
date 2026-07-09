@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "e26c199840129cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d93462c8166f1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d80393c8ce6965c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a6a9460ba42606d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1b11fbc53d6584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b233f440d9ab1e9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0ac09c27b0ebe92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "BRUD21-SRS-033",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7629616162fbc20d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 598.5
+  },
+  "right": {
+    "id": "d39218022c847721",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9faeccd4fe53c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25b69226675d3ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Описание проекта ПО БРУД/5 Компоненты/5.1 Поток управления/content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for content"
+            }
+          },
+          {
+            "id": "3ee049f597a689fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Описание проекта ПО БРУД/5 Компоненты/5.1 Поток управления/content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from content"
+            }
+          },
+          {
+            "id": "be94e27c84fbe3c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c98e39b71b687f42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "965811be488e3cce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Описание проекта ПО БРУД/5 Компоненты/5.1 Поток управления/content.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2d80393c8ce6965c",
+  "lastOpenFiles": [
+    "templates/template.dotm",
+    "templates",
+    "Personal Scheduler App/1 Description/1.2 App Functions/1.2.2 User Interface Overview.md",
+    "Personal Scheduler App/1 Description/1.2 App Functions/1.2.1 Function List.md",
+    "Personal Scheduler App/1 Description/1.1 Overview/1.1.2 Target Users.md",
+    "Personal Scheduler App/1 Description/1.1 Overview/1.1.1 Purpose and Scope.md",
+    "Personal Scheduler App/2 Requirements/2.2 Non-Functional Requirements/2.2.2 Data and Security.md",
+    "Personal Scheduler App/2 Requirements/2.2 Non-Functional Requirements/2.2.1 Performance and Usability.md",
+    "Personal Scheduler App/2 Requirements/2.1 Functional Requirements/2.1.3 Reminders and Notifications.md",
+    "Personal Scheduler App/2 Requirements/2.1 Functional Requirements/2.1.2 Task Management.md",
+    "Personal Scheduler App/2 Requirements/2.1 Functional Requirements/2.1.1 Calendar and Event Management.md",
+    "Personal Scheduler App/2 Requirements/2.1 Functional Requirements/2.1.0 content.md",
+    "Personal Scheduler App/1 Description/1.2 App Functions",
+    "Personal Scheduler App/1 Description/1.1 Overview",
+    "Personal Scheduler App/2 Requirements/2.2 Non-Functional Requirements",
+    "Personal Scheduler App/2 Requirements/2.1 Functional Requirements",
+    "Personal Scheduler App/1 Description",
+    "Personal Scheduler App/2 Requirements",
+    "Personal Scheduler App",
+    "attachments/source/ТВУ.Структурная схема взаимодействия ПО.vsdx",
+    "attachments/source/СТ. Рисунок 1. Интерфейсы БРУД.vsdx",
+    "attachments/pics/scheduler-architecture.png",
+    "Системные требования БРУД/1 Введение/1.3 Сокращения, термины и определения.md",
+    "Системные требования БРУД/1 Введение/1.2 Применяемые документы.md",
+    "Системные требования БРУД/1 Введение/1.1 Назначение и область применения документа.md",
+    "Требования к ПО БРУД/6 Функциональные требования/6.1 Требования к определению достоверности принятых параметров от КСУ.md",
+    "Требования к аппаратуре БРУД/1 Введение/1.6 Описание интерфейсов/1.6.2 Внешние интерфейсы БРУД-21И/content.md",
+    "Описание проекта БРУД/3 Архитектура системы/3.1 Состав компонентов.md",
+    "Описание проекта БРУД/2 Описание системы/2.3 Особенности установки на воздушном судне.md",
+    "Описание проекта БРУД/1 Введение/1.2 Используемые документы/1.2.3 Источники.md",
+    "Описание проекта БРУД/1 Введение/1.2 Используемые документы/1.2.2 Планы и стандарты.md",
+    "Описание проекта БРУД/1 Введение/1.2 Используемые документы/1.2.1 Нормативные документы.md",
+    "Требования к ПО БРУД/6 Функциональные требования/6.10 Требования к контролям питания.md",
+    "Требования к ПО БРУД/6 Функциональные требования/6.11 Требования к встроенному контролю БРУД-21.md",
+    "Требования к аппаратуре БРУД/5 Требования к контролепригодности аппаратуры/content.md",
+    "Системные требования БРУД/5 Функциональные требования/5.8 Встроенный контроль.md",
+    "Требования к ПО БРУД/1 Введение/1.2 Ссылки/content.md",
+    "attachments/pics/Untitled.png",
+    "attachments/pics/Pasted image 20260610225524.png",
+    "attachments/pics/(старый) ОПС. Рисунок 1. Архитектура БРУД.png",
+    "attachments/pics/ТА. Архитектура аппаратуры БРУД-21И.png",
+    "attachments/pics/КБ. Рисунок 3. Габаритная схема БРУД-21И.png",
+    "attachments/pics/КБ. Рисунок 2. Кинематическая схема БРУД-21И.png",
+    "attachments/pics/КБ. Рисунок 1. Общая форма рукоятки.png",
+    "attachments/pics/ТВУ.Структурная схема взаимодействия ПО.png",
+    "attachments/pics/СТ. Рисунок 3. Общая форма рукояток.png"
+  ]
+}
