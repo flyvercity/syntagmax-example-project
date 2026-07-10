@@ -3,9 +3,6 @@ include_plain_text: true
 remove_numeric_prefixes_in_headers: true
 contents_marker: "content"
 
-ignore_plain_text_prefixes:
-  - "#"
-
 render:
   REQ:
     - type: table

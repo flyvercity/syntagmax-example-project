@@ -8,6 +8,12 @@ atype = "SRS"
 marker = "REQ"
 publish = "publish.yaml"
 
+[drivers.obsidian]
+integration = true
+exclude_elements = [
+  {name = "tags", mode = "string-on-start"},
+]
+
 [metrics]
 enabled = true
 requirement_type = "REQ"
@@ -24,14 +30,3 @@ output_file = "output/impact.md"
 
 [metamodel]
 filename = "project.syntagmax"
-
-[[plugin]]
-name = "strip-marker"
-source = "local"
-enabled = true
-
-[plugin.params]
-marker = "COM"
-
-[drivers.obsidian]
-integration = true
