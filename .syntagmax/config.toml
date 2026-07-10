@@ -1,4 +1,4 @@
-base = ".."
+publish = "publish.yaml"
 
 [[input]]
 name = "SCHED"
@@ -6,7 +6,6 @@ dir = "Personal Scheduler App"
 driver = "obsidian"
 atype = "SRS"
 marker = "REQ"
-publish = "publish.yaml"
 
 [drivers.obsidian]
 integration = true
@@ -20,13 +19,9 @@ requirement_type = "REQ"
 status_field = "status"
 verify_field = "verify"
 tbd_marker = "TBD"
-output_format = "markdown"
-output_file = "output/metrics.md"
 
 [impact]
 enabled = true
-output_format = "markdown"
-output_file = "output/impact.md"
 
 [metamodel]
 filename = "project.syntagmax"
