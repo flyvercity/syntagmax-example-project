@@ -1,1 +1,6 @@
 .aider*
+.trash
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/page-preview.json
