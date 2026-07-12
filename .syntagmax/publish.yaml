@@ -4,19 +4,21 @@ remove_numeric_prefixes_in_headers: true
 contents_marker: "content"
 
 render:
-  REQ:
+  SRS:
     - type: table
       attributes:
         - id:
             alias: "ID"
-        - type:
-            alias: "ObjType"
         - parent:
             alias: "SoR"
         - safety:
             alias: "SFTY"
         - func:
             alias: "Function"
+        - alloc:
+            alias: "Allocation"
+        - derive:
+            alias: "Derived"
     - type: text
       mode: block
       attributes:
@@ -31,8 +33,13 @@ render:
             alias: "Comment"
   COM:
     - type: text
-      mode: block
+      mode: inline
       alias: "Comment"
+      
+  DES:
+    - type: text
+      mode: inline
+      alias: "Description"
 
 docx-template:
   default-template: "templates/template.dotm"

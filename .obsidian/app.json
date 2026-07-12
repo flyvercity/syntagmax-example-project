@@ -12,5 +12,6 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": true
 }

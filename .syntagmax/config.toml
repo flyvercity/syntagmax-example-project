@@ -6,9 +6,11 @@ dir = "Personal Scheduler App"
 driver = "obsidian"
 atype = "SRS"
 marker = "REQ"
+markers = ["COM", "DES", "TABLE", "FIG"]
 
 [drivers.obsidian]
 integration = true
+strict_line_breaks = "auto"
 exclude_elements = [
   {name = "tags", mode = "string-on-start"},
 ]
