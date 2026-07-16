@@ -13,5 +13,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "readableLineLength": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true
 }
