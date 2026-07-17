@@ -1,4 +1,5 @@
 publish = "publish.yaml"
+language="en"
 
 [[input]]
 name = "SCHED"
