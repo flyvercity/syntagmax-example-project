@@ -28,7 +28,7 @@ jobs:
           syntagmax publish --all --single
 
       - name: Upload Publish Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: syntagmax-publish
           path: .syntagmax/reports/published.md
