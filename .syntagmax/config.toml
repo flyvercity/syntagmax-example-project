@@ -28,3 +28,6 @@ enabled = true
 
 [metamodel]
 filename = "project.syntagmax"
+
+[baseline]
+tag_pattern = "^v\\d+\\.\\d+\\.\\d+$"
