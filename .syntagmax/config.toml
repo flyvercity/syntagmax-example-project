@@ -31,3 +31,6 @@ filename = "project.syntagmax"
 
 [baseline]
 tag_pattern = "^v\\d+\\.\\d+\\.\\d+$"
+
+[report]
+path_as_links = true
